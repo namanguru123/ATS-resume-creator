@@ -4,8 +4,7 @@ A cutting-edge resume builder that helps job seekers create a professional, ATS-
 
 ## Demo
 
-#### [https://atsresume.vercel.app/](https://atsresume.vercel.app/)
-![image](https://user-images.githubusercontent.com/61316762/218017511-fbbaa7da-6154-449f-9e46-8de45b0e6c29.png)
+#### [https://naman-ats-resume-creator.vercel.app/](https://naman-ats-resume-creator.vercel.app/)
 
 ### Resume Score
 #### https://www.resumego.net/resume-checker/
